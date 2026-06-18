@@ -1,4 +1,4 @@
-# 🏠 Airbnb Data Analysis & Price Prediction
+# 🏠 Airbnb Listings Analysis 
 
 ## 📌 Project Overview
 

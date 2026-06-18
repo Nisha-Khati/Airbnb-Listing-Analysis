@@ -208,7 +208,7 @@ The insights generated can help:
 
 ## 👩‍💻 Author
 
-**Nisha Khati**
+**Nisha Khati A**
 
 📊 Data Analyst  
 🚀 AI Enthusiast  
